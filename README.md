@@ -1,14 +1,12 @@
-## Portfolio
+## PORTFOLIO
 
 [lorenzodossi.com](https://lorenzodossi.com)
 
-## Mail
+## MAIL
 
 [mail@lorenzodossi.com](mailto:mail@lorenzodossi.com)
 
-## Social
+## SOCIAL
 
 - [X (Twitter)](https://x.com/lorenzodossi)
 - [LinkedIn](linkedin.com/in/lorenzo-dossi-46210b141)
-# README.md
-# README.md
