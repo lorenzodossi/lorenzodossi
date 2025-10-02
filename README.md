@@ -1,16 +1,14 @@
-## Hi there 👋
+## Portfolio
 
-<!--
-**lorenzodossi/lorenzodossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[lorenzodossi.com](https://lorenzodossi.com)
 
-Here are some ideas to get you started:
+## Mail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[mail@lorenzodossi.com](mailto:mail@lorenzodossi.com)
+
+## Social
+
+- [X (Twitter)](https://x.com/lorenzodossi)
+- [LinkedIn](linkedin.com/in/lorenzo-dossi-46210b141)
+# README.md
+# README.md
