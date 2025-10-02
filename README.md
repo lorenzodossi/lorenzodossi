@@ -8,5 +8,5 @@
 
 ## SOCIAL
 
-- [X (Twitter)](https://x.com/lorenzodossi)
+- [X](https://x.com/lorenzodossi)
 - [LinkedIn](linkedin.com/in/lorenzo-dossi-46210b141)
