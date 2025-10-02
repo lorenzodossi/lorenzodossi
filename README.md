@@ -9,4 +9,4 @@
 ## SOCIAL
 
 - [X](https://x.com/lorenzodossi)
-- [LinkedIn](linkedin.com/in/lorenzo-dossi-46210b141)
+- [LinkedIn](https://linkedin.com/in/lorenzo-dossi-46210b141)
